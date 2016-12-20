@@ -1,4 +1,4 @@
-Color Craze
+Colorify
 =====================
 
 Welcome to Colorify!
