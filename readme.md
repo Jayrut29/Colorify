@@ -14,6 +14,6 @@ Pick the correct "color" of the word to get the highest score!
 A shuffle function is used to shuffle the arrays without affecting the original arrays.
 
 [Play in Browser]
-
+https://jayrut.github.io/Colorify/
 
 Credits to [Richard Durstenfeld's shuffle](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle#The_modern_algorithm)
